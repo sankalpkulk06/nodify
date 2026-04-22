@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Nodify AI Logo" width="80" height="80">
-  <h1>nodify.ai</h1>
+  <img src="assets/logo.svg" alt="Nodify AI Logo" width="200">
+  <br><br>
   <p><strong>The visual way to build AI agents. No code. No frameworks. Just describe what you want.</strong></p>
 </div>
 
