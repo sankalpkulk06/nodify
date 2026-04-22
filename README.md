@@ -19,15 +19,15 @@ The tools that exist today are built for developers, but even developers struggl
 
 ## The Solution
 
-Nodify AI is built for non-technical users. Describe your workflow in plain English and get a production-ready agentic application in minutes.
+Nodify AI is the visual way to build AI agents. Describe your workflow in plain English, watch it take shape as a node graph in real time, and get a production-ready agentic application in minutes.
 
 **No code. No frameworks. No engineers needed.**
 
 | Step | What happens |
 |------|-------------|
 | **01 Describe** | Tell Nodify your goal in plain English |
-| **02 Iterate** | Nodify proposes a node graph and asks clarifying questions at each node |
-| **03 Confirm** | Nodify infers required tools, APIs, and permissions — you approve |
+| **02 Iterate** | Nodify proposes a visual node graph and asks clarifying questions at each node |
+| **03 Confirm** | Nodify infers required tools, APIs, and permissions — you approve visually |
 | **04 Generate** | Complete production-ready agentic application ready to deploy |
 
 ---
