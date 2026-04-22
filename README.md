@@ -8,14 +8,9 @@
 
 ## The Problem
 
-Most people who need agents cannot build them. Non-technical founders, operators, and business teams have no path to agentic workflows without hiring engineers.
+Building AI agents is hard. Even experienced developers spend days on boilerplate, state wiring, and framework complexity (LangGraph, AutoGen, CrewAI all carry steep learning curves).
 
-Even for experienced developers, building agents is unnecessarily hard:
-
-- **Days of scaffolding** — boilerplate, state wiring, and tool permission configs for even simple workflows
-- **Framework complexity** — LangGraph, AutoGen, CrewAI each carry steep learning curves and require deep expertise to choose and structure correctly
-
-The tools that exist today are built for developers, but even developers struggle. Everyone else is locked out completely.
+For non-technical founders, operators, and business teams? There's no path at all. You either hire engineers or you don't build agents.
 
 ---
 
