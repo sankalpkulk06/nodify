@@ -1,6 +1,6 @@
 # nodify.ai
 
-**Turn plain English workflows into production-ready agentic applications.**
+**The visual way to build AI agents. No code. No frameworks. Just describe what you want.**
 
 ---
 
